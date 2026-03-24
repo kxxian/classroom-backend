@@ -1,0 +1,1 @@
+CREATE INDEX "subjects_department_id_index" ON "subjects" USING btree ("department_id");
